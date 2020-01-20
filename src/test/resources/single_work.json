@@ -1,0 +1,37 @@
+{
+  "@uri": "https://reststop.randomhouse.com/resources/works?start=0&max=2&expandLevel=1&search=The%20Amazing%20Book%20Is%20Not%20on%20Fire:%20The%20World%20of%20Dan%20and%20Phil",
+  "work": {
+    "@uri": "https://reststop.randomhouse.com/resources/works/533933",
+    "authorweb": "HOWELL, DAN",
+    "titles": {
+      "isbn": [
+        {
+          "@formatcode": "EL",
+          "$": "9781101939857"
+        },
+        {
+          "@formatcode": "CD",
+          "$": "9781524722425"
+        },
+        {
+          "@formatcode": "HC",
+          "$": "9781101939840"
+        },
+        {
+          "@formatcode": "DN",
+          "$": "9780399568558"
+        },
+        {
+          "@formatcode": "DN",
+          "$": "9780399568565"
+        }
+      ]
+    },
+    "onsaledate": "2015-10-13T00:00:00-04:00",
+    "titleAuth": "The Amazing Book Is Not on Fire : Dan Howell and Phil Lester",
+    "titleSubtitleAuth": "The Amazing Book Is Not on Fire : The World of Dan and Phil : Dan Howell and Phil Lester",
+    "titleshort": "AMAZING BOOK IS NOT (LIB)(LDL)",
+    "titleweb": "The Amazing Book Is Not on Fire",
+    "workid": "533933"
+  }
+}

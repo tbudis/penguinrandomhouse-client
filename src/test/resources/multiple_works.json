@@ -1,0 +1,50 @@
+{
+  "@uri": "https://reststop.randomhouse.com/resources/works?start=0&max=2&expandLevel=1&search=Educated",
+  "work": [
+    {
+      "@uri": "https://reststop.randomhouse.com/resources/works/206029",
+      "authorweb": "KOHN, ALFIE",
+      "titles": {
+        "isbn": [
+          {
+            "@formatcode": "TR",
+            "$": "9780807032671"
+          },
+          {
+            "@formatcode": "EL",
+            "$": "9780807097120"
+          }
+        ]
+      },
+      "onsaledate": "2004-05-15T00:00:00-04:00",
+      "titleAuth": "What Does It Mean to Be Well Educated? : Alfie Kohn",
+      "titleSubtitleAuth": "What Does It Mean to Be Well Educated? : And More Essays on Standards, Grading, and Other Follies : Alfie Kohn",
+      "titleshort": "WHAT DOES IT MEAN WELL ED(EBK)",
+      "titleweb": "What Does It Mean to Be Well Educated?",
+      "workid": "206029"
+    },
+    {
+      "@uri": "https://reststop.randomhouse.com/resources/works/226760",
+      "authorweb": "GRAHAM, SHEILAH",
+      "titles": {
+        "isbn": [
+          {
+            "@formatcode": "TR",
+            "$": "9781612192833"
+          },
+          {
+            "@formatcode": "EL",
+            "$": "9781612192840"
+          }
+        ]
+      },
+      "onsaledate": "2013-05-28T00:00:00-04:00",
+      "series": "NEVERSINK",
+      "titleAuth": "College of One : Sheilah Graham",
+      "titleSubtitleAuth": "College of One : The Story of How F. Scott Fitzgerald Educated the Woman He Loved : Sheilah Graham",
+      "titleshort": "COLLEGE OF ONE",
+      "titleweb": "College of One",
+      "workid": "226760"
+    }
+  ]
+}
